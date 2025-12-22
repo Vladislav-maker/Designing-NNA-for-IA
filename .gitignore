@@ -1,0 +1,9 @@
+tiny-imagenet-200
+base_model.pth
+best_model_part_31A.pth
+best_model_part_31B.pth
+best_model_part_32A.pth
+best_model_part_32C.pth
+best_model_part_33B.pth
+best_model_part_33C.pth
+best_model_part_33D.pth
